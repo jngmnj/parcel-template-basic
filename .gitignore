@@ -1,0 +1,4 @@
+.cache
+node_modules
+dist
+# 버전관리 무시할 폴더들
